@@ -1,0 +1,4 @@
+dlib
+numpy
+face-recogintion
+opencv-python
